@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mors": {
+      "command": "bun",
+      "args": ["mcp/index.ts"],
+      "env": { "MORS_GATEWAY": "http://127.0.0.1:8888" }
+    }
+  }
+}
